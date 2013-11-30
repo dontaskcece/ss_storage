@@ -1,0 +1,4 @@
+* urls
+** http://thinkinside.tk/
+** http://blog.nodejitsu.com/keep-a-nodejs-server-up-with-forever
+** http://www.stoimen.com/blog/2010/11/19/diving-into-node-js-very-first-app/

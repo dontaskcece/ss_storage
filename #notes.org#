@@ -1,0 +1,131 @@
+* all about me 
+** <2013-06-07>
+vps: 
+
+万年不动
+========================================================
+storage
+-----------------------------------------------------------
+ra 15.6  ovz     用作备份存储 
+bv 15    ovz     owncloud 
+------------------------------------------------------------
+
+
+tools
+-------------------------------------------------
+sd 13     ovz                   最喜欢的 很快(tools) 
+sd2 10    ovz                   很快  (tools2) (as a lot tools)
+------------------------------------------------
+  
+yearly  nice
+-----------------------------------------
+ih 15   euro  xen    nice ping             | wiki.qiaoyan.org  rss.qiaoyan.org  blog.qiaoyan.org  qiaoyan.org
+tq 10.5  euro kvm    quite cheap and good
+-----------------------------
+￥45
+-------------------------------------------
+
+==========================================================
+测试用
+--------------------------------------------------
+test 
+-----------------------------------
+pk 11       kvm     nice 
+
+---------------------------------------------
+67
+
+domain name 
+=-------------------------------------
+qiaoyan.org
+plainkit.com
+
+just fine  keep below 20 dollar  one vps per company
+
+stick to this line never beyond it 
+
+** <2013-09-09 一>
+
+ik 2 euro 
+
+rk 3.7 dollar
+rn 2.6 dollar
+
+fr 2.4 dollar
+
+bk 5 dollar
+=============
+ 100 rmb
+
+
+** <2013-09-16 一>
+nginx  location / url 至少好像要两个字母
+
+
+** <2013-09-18 三>
+
+ik 2 euro 
+
+rk 3.7 dollar
+
+-------rn 2.6 dollar-----------
+
+rn +rs  2.6
+
+--------fr 2.4 dollar----------
+
+bk 5 dollar
+
+sd+ew 21/12=1.8
+=============
+ 100 rmb
+
+
+** <2013-09-23 一>
+
+ik 512   mail server mysql server  
+
+
+tl   front end  test //
+
+rn + rs   file server 
+
+ew+sd   some other use 
+--------------------------
+
+90
+
+
+** <2013-09-28 六>
+
+rsync 远程服务器也要装否则无法走ssh 
+
+** <2013-10-19 六>
+
+summary of vps:
+ew + sd 1.8  
+
+rn + rs 2.6
+
+---------------
+
+
+
+
+
+
+** <2013-11-11 一>
+texlive path 在 ~/.profile 
+
+
+
+** <2013-11-26 二>
+
+modprobe brcmsmac
+
+
+** <2013-11-27 三>
+
+好啊 可以重新上网了 而且看起来没有断线了，太好了。
+
+现在每个月只有4.4美金的花费，还行吧。哈哈哈
